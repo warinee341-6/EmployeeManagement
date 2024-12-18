@@ -1,1 +1,1 @@
-# EmployeeManagement with Restful API and Web Service
+# EmployeeManagement with Rest API and Web Service
